@@ -1,6 +1,7 @@
 # Open source games
 
 This is a list of different open-source video games and commercial video games open-source remakes.
+
 ## Table of contents
 
 - [Action games](#action-games)
@@ -163,6 +164,28 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 - **[Whatajong](https://whatajong.com)** - [[source]](https://github.com/masylum/whatajong)
 
 ## Racing games
+
+- **[Dust Racing 2D](https://github.com/juzzlin/DustRacing2D)** - A traditional top-down car racing game including a level editor. [[source]](https://github.com/cflavio/yorg)
+
+- **[ManiaDrive](http://maniadrive.raydium.org)** - A free clone of [TrackMania](https://en.wikipedia.org/wiki/TrackMania), the great game from [Nadéo](https://en.wikipedia.org/wiki/Nadeo) studio. [[source]](http://maniadrive.raydium.org/index.php?downloads=yes) **Engine: [Raydium](https://raydium.org)** [[source]](https://raydium.org/data.php)
+
+- **[Rigs of Rods](https://www.rigsofrods.org)** -  An open-source physics sandbox simulation game that can simulate the motion and deformation of vehicles in real time. [[source]](https://github.com/RigsOfRods/rigs-of-rods) **Engine: [OGRE](https://www.ogre3d.org)** [[source]](https://github.com/OGRECave) **UI: [Dear ImGui](https://www.dearimgui.com)** [[source]](https://github.com/ocornut/imgui)
+
+- **[RVGL](https://re-volt.io)** - A cross-platform rewrite / port of [Re-Volt](https://en.wikipedia.org/wiki/Re-Volt) that runs natively on both Windows and GNU/Linux. [[source]](https://gitlab.com/re-volt)
+
+- **[Speed Dreams](https://www.speed-dreams.net)** - A free and open source motorsport simulator. [[source]](https://forge.a-lec.org/xavi/speed-dreams-code)
+
+- **[Stunt Rally](https://stuntrally.tuxfamily.org)** - 3D racing game with Sci-Fi elements and own Track Editor. [[source]](https://github.com/stuntrally/stuntrally3)
+
+- **[SuperTuxKart](https://supertuxkart.net)** - A free kart racing game. It focuses on fun and not on realistic kart physics. [[source]](https://github.com/supertuxkart/stk-code)
+
+- **[TORCS - The Open Racing Car Simulator](https://torcs.sourceforge.net)** - A highly portable multi platform car racing simulation. It is used as ordinary car racing game, as AI racing game and as research platform. [[source]](https://sourceforge.net/projects/torcs)
+
+- **[Trigger Rally](https://trigger-rally.sourceforge.io)** - A fast-paced single-player racing game for Linux and Windows. [[source]](https://sourceforge.net/projects/trigger-rally)
+
+- **[VDrift](https://vdrift.net)** - A cross-platform, open source driving simulation made with drift racing in mind. [[source]](https://github.com/VDrift/vdrift)
+
+- **[Yorg](https://ya2.itch.io/yorg)** - Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux. [[source]](https://github.com/cflavio/yorg) **Engine: [Panda3D](https://www.panda3d.org)** [[source]](https://github.com/panda3d/panda3d)
 
 - **[wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)** - This is a re-implementation of the 1995 PSX game [Wipeout](https://en.wikipedia.org/wiki/Wipeout_(video_game)). [[source]](https://github.com/phoboslab/wipeout-rewrite)
 
