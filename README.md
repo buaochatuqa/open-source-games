@@ -350,6 +350,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 ## Turn-Based strategies
 
+- [Ancient Beast](https://ancientbeast.com) - A turn based strategy indie game project played online against other people. [[source]](https://github.com/FreezingMoon/AncientBeast)
+
 - **[Athena Crisis](https://athenacrisis.com)** - A modern-retro turn-based tactical strategy game. [[source]](https://github.com/nkzw-tech/athena-crisis)
 
 - **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [[source]](http://c-evo.org/files/files.php)
