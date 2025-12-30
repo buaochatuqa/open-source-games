@@ -322,6 +322,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[SDL Sopwith](https://fragglet.github.io/sdl-sopwith)** - A port of the classic biplane shoot ‘em-up “Sopwith” to run on modern computers and operating systems. [[source]](https://github.com/fragglet/sdl-sopwith)
 
+- **[Taisei Project](https://taisei-project.org)** - A free and open-source fangame of the [Tōhō series](https://en.wikipedia.org/wiki/Touhou_Project), written in C using SDL3 and OpenGL. [[source]](https://github.com/taisei-project/taisei)
+
 ## Sport games
 
 - **[Open Golf](https://mgerdes.github.io/minigolf.html)** - A cross-platform minigolf game written in C. [[source]](https://github.com/mgerdes/Open-Golf)
