@@ -84,6 +84,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Red Eclipse](https://www.redeclipse.net)** - An old-school arena shooter for the modern age. [[source]](https://github.com/redeclipse/base) **Engine: [CUBE](https://www.redeclipse.net)** [[source]](https://github.com/bsegovia/cube)
 
+- **Surreal Engine** - [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament) Engine Reimplementation. [[source]](https://github.com/dpjudas/SurrealEngine)
+
 - **[The Dark Mod](https://www.thedarkmod.com/main)** - First-person stealth video game. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk)
 
 - **[Xonotic](https://xonotic.org)** - An addictive arena-style first person shooter with crisp movement and a wide array of weapons. [[source]](https://gitlab.com/xonotic/xonotic)
