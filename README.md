@@ -88,6 +88,28 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Xonotic](https://xonotic.org)** - An addictive arena-style first person shooter with crisp movement and a wide array of weapons. [[source]](https://gitlab.com/xonotic/xonotic)
 
+### *[Build engine](https://en.wikipedia.org/wiki/Build_(game_engine)) [[source]](https://advsys.net/ken/buildsrc) based games*
+
+- **[Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D)** - By [3D Realms Entertainment, Inc](https://en.wikipedia.org/wiki/3D_Realms). [[source]](https://github.com/videogamepreservation/dukenukem3d)
+
+- **Shadow Warior** - Official source release for [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)). [[source]](https://github.com/Azarien/shadow-warrior)
+
+#### *Source Ports and Re-Implementations*
+
+- **BuildGDX** - [[source]](https://github.com/vogonsorg/BuildGDX)
+
+- **[EDuke32](https://voidpoint.io/terminx/eduke32)** - The official EDuke32 Git repository: home to the source code to EDuke32, [Ion Fury](https://en.wikipedia.org/wiki/Ion_Fury), VoidSW, Mapster32, and related projects based on the Build Engine.
+
+- **[JFDuke3D](https://www.jonof.id.au/jfduke3d)** - Port of the [3D Realms](https://en.wikipedia.org/wiki/3D_Realms) game [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D) [[source]](https://github.com/jonof/jfduke3d)
+
+- **[JFShadowWarrior](https://www.jonof.id.au/jfsw)** - Port of the [3D Realms](https://en.wikipedia.org/wiki/3D_Realms) game [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)).
+
+- **[NBlood](https://github.com/NBlood/NBlood)** - Reverse-engineered ports of Build games using EDuke32 engine technology and development principles (NBlood/Rednukem/PCExhume d) [[source]](https://github.com/NBlood/NBlood)
+
+- **NuBuildGDX** -  A fork of BuildGDX aiming for stability, bug fixing and performance. [[source]](https://github.com/atsb/NuBuildGDX)
+
+- **[Raze](https://github.com/ZDoom/Raze)** - Build engine port backed by GZDoom tech. Currently supports [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D), [Blood](https://en.wikipedia.org/wiki/Blood_(video_game)), [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)), [Redneck Rampage](https://en.wikipedia.org/wiki/Redneck_Rampage) and [Powerslave](https://en.wikipedia.org/wiki/PowerSlave)/Exhumed.
+
 ### *[id Software](https://en.wikipedia.org/wiki/Id_Software) Games*
 
 - **[Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))** - [[source]](https://github.com/id-Software/DOOM)
