@@ -352,6 +352,10 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **Open Diablo II** - An open source re-implementation of [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II). [[source]](https://github.com/OpenDiablo2/OpenDiablo2)
 
+### *Massively Multiplayer Online Role-Playing Games*
+
+- **OpenKO** - An open source version of the old school [Knight Online](https://en.wikipedia.org/wiki/Knight_Online) MMORPG. [[source]](https://github.com/Open-KO/KnightOnline)
+
 ## Sandbox games
 
 - **Minosoft** - An open source minecraft client, written from scratch in Kotlin (and java). [[source]](https://github.com/bixilon/minosoft) [[source]](https://gitlab.bixilon.de/bixilon/minosoft)
