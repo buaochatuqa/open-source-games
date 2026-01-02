@@ -58,6 +58,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **Egregoria** - Egregoria is an indie city builder, mostly inspired by *[Cities: Skylines](https://en.wikipedia.org/wiki/Cities:_Skylines)*. [[source]](https://github.com/Uriopass/Egregoria)
 
+- **[IsoCity](iso-city.com)** - Isometric city-building simulation game built with NextJS, TypeScript and TailwindCSS. [[source]](https://github.com/amilich/isometric-city)
+
 - **Julius** - An open source re-implementation of *[Caesar III](https://en.wikipedia.org/wiki/Caesar_III)*. [[source]](https://github.com/bvschaik/julius)
 
 - **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** - A handmade Javascript port of the open-source city simulator *[Micropolis](https://mvolution.itch.io/micropolis)*. [[source]](https://github.com/graememcc/micropolisJS)
