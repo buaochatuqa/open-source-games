@@ -356,6 +356,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **OpenKO** - An open source version of the old school [Knight Online](https://en.wikipedia.org/wiki/Knight_Online) MMORPG. [[source]](https://github.com/Open-KO/KnightOnline)
 
+- **OpenKore** - A custom client and intelligent automated assistant for [Ragnarok Online](https://en.wikipedia.org/wiki/Ragnarok_Online). [[source]](https://github.com/OpenKore/openkore)
+
 ## Sandbox games
 
 - **Minosoft** - An open source minecraft client, written from scratch in Kotlin (and java). [[source]](https://github.com/bixilon/minosoft) [[source]](https://gitlab.bixilon.de/bixilon/minosoft)
