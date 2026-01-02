@@ -90,6 +90,14 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Xonotic](https://xonotic.org)** - An addictive arena-style first person shooter with crisp movement and a wide array of weapons. [[source]](https://gitlab.com/xonotic/xonotic)
 
+### *[Aliens Versus Predator](https://en.wikipedia.org/wiki/Aliens_Versus_Predator_(1999_video_game)) game source ports*
+
+- **AvP Forever** - Project focuses on maintenance of available source code for *Aliens versus Predator (1999)* game. [[source]](https://github.com/dreamer/avp-forever)
+
+- **avpmp** - Fork of the original AvP port for Linux, expanded with multiplayer and other features. [[source]](https://github.com/mbait/avpmp)
+
+- **NakedAVP** - A port of *Aliens vs Predator Classic (2000)* to modern systems, based on the icculus port for Linux, macOS and Windows using [SDL3](https://libsdl.org/) ([[source]](https://github.com/libsdl-org/SDL)). [[source]](https://github.com/atsb/NakedAVP)
+
 ### *[Build engine](https://en.wikipedia.org/wiki/Build_(game_engine)) [[source]](https://advsys.net/ken/buildsrc) based games*
 
 - **[Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D)** - By [3D Realms Entertainment, Inc](https://en.wikipedia.org/wiki/3D_Realms). [[source]](https://github.com/videogamepreservation/dukenukem3d)
