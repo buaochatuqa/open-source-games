@@ -19,6 +19,7 @@ This is a list of different open-source video games and commercial video games o
 - [Shoot 'em up games](#shoot-em-up-games)
 - [Sport games](#sport-games)
 - [Third-Person games](#third-person-games)
+- [Tower Defense games](#tower-defence-games)
 - [Turn-Based strategies](#turn-based-strategies)
 - [Other lists](#other-lists)
 
@@ -397,6 +398,10 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 - **RE3** - The fully reversed source code for [GTA III](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III) and [GTA VC](https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City). [[source]](https://github.com/VideogameSources/gta3-decomp-alt)
 
 - **[Tomb Engine](https://tombengine.com)** - An open-source engine for custom [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider) adventures. Core Design era (1 - 5). [[source]](https://github.com/TombEngine/TombEngine)
+
+## Tower Defence games
+
+- **[Server Survival](https://pshenok.github.io/server-survival)** - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. [[source]](https://github.com/pshenok/server-survival)
 
 ## Turn-Based strategies
 
