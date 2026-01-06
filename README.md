@@ -344,7 +344,7 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[Space Station 14](https://spacestation14.io/)** – Open-source remake of [Space Station 13](https://en.wikipedia.org/wiki/Space_Station_13). [[source]](https://github.com/space-wizards/space-station-14)
 
-- **[Ultima VII: Revisited](https://www.u7revisited.com)** - A replacement engine for [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate) that presents the game in 3D and fixes various issue with the game. [[source]](https://github.com/ViridianGames/U7Revisited)
+- **[Ultima VII: Revisited](https://www.u7revisited.com)** - A replacement engine for [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate) that presents the game in 3D and fixes various issues with the game. [[source]](https://github.com/ViridianGames/U7Revisited)
 
 - **[Veloren](https://www.veloren.net/)** - multiplayer voxel RPG written in Rust. [[source]](https://github.com/veloren/veloren)
 
