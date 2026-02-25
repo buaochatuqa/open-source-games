@@ -343,6 +343,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **reone** - A free and open source game engine, capable of running [Star Wars: Knights of the Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic) and its sequel, [The Sith Lords](https://en.wikipedia.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords). [[source]](https://github.com/seedhartha/reone)
 
+- **[Served Chains](https://legendofdragoon.org/projects/severed-chains)** - [The Legend of Dragoon](https://en.wikipedia.org/wiki/The_Legend_of_Dragoon) decompiled, reverse engineered, and ported to PC/Mac/Linux/Steam Deck. [[source]](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains)
+
 - **[Space Station 14](https://spacestation14.io/)** – Open-source remake of [Space Station 13](https://en.wikipedia.org/wiki/Space_Station_13). [[source]](https://github.com/space-wizards/space-station-14)
 
 - **[Ultima VII: Revisited](https://www.u7revisited.com)** - A replacement engine for [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate) that presents the game in 3D and fixes various issues with the game. [[source]](https://github.com/ViridianGames/U7Revisited)
