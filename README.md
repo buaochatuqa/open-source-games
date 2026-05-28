@@ -4,13 +4,13 @@
 [🇨🇳 中文](README.zh.md) · [🇷🇺 Русский](README.ru.md)
 
 ---
-<img width="1991" height="793" alt="thumbnail" src="https://github.com/user-attachments/assets/74c48148-0002-496e-9f42-efa4d6408029" />
+<img width="1776" height="576" alt="thumbnail" src="https://github.com/user-attachments/assets/eb7920c1-03ab-47f0-8da2-daa07891c227" />
 <br><br>
 
 <p align="center">
   <strong>⭐ Want more profitable trading bots?</strong><br><br>
   Built by <a href="https://github.com/zsc-dao"><strong>ZSC DAO</strong></a> — high-performance automated trading systems for Polymarket.<br><br>
-  <a href="https://github.com/zsc-dao"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-gamma--trade--lab-181717?logo=github&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/zsc-dao"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ZSC--Dao-181717?logo=github&logoColor=white"></a>&nbsp;
   <a href="https://t.me/RetroValix"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@leshuuuk-26A5E4?logo=telegram&logoColor=white"></a>
 </p>
 
@@ -38,3 +38,8 @@ https://github.com/user-attachments/assets/a978bc2e-ed85-4b9b-821c-17f5f33b276b
 Prediction markets for short-horizon BTC moves are noisy and fast. This project treats them like a **systematic trading problem**: pull in market and context data, normalize it through a single ingestion path, fuse multiple detectors into a decision, then execute through a broker adapter with **hard risk limits** (small size per trade, take profit parameters). The goal is not "one magic signal" but a **testable stack** you can run in simulation, observe in Grafana, and only then point at live capital.
 
 ---
+
+#Weather Bot
+
+https://github.com/user-attachments/assets/7b76663f-ac4c-4c92-9eea-be8b73005092
+<img width="338" height="360" alt="HJZ1DFDW4AMJB1S" src="https://github.com/user-attachments/assets/fb6ffcd4-28be-4de0-bcbf-eb55b5e21178" />
