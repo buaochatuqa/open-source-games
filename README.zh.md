@@ -71,9 +71,10 @@
 ## Weather Bot —— Polymarket 天气市场套利
 
 <p align="center">
-  <video width="338" height="360" src="https://github.com/user-attachments/assets/7b76663f-ac4c-4c92-9eea-be8b73005092"></video>
   <img width="338" height="360" alt="Weather Bot 业绩" src="https://github.com/user-attachments/assets/fb6ffcd4-28be-4de0-bcbf-eb55b5e21178" />
 </p>
+
+https://github.com/user-attachments/assets/7b76663f-ac4c-4c92-9eea-be8b73005092
 
 一种凸性收益策略 —— 在天气事件市场上,以极低的价格(约 1¢ 赔率)大量买入 "No" 仓位。
 
@@ -101,9 +102,7 @@
 
 ## Sports Bot —— 世界杯与大型赛事
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/b024d9cd-7cbf-4b1b-9618-ff45e4f9bdbd"></video>
-</p>
+https://github.com/user-attachments/assets/b024d9cd-7cbf-4b1b-9618-ff45e4f9bdbd
 
 一套面向 **FIFA 世界杯**及大型电竞赛事的波动率交易策略。
 

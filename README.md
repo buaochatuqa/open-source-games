@@ -71,9 +71,10 @@ Build scalable, testable, production-grade trading infrastructure where **risk c
 ## Weather Bot — Polymarket Weather Arbitrage
 
 <p align="center">
-  <video width="338" height="360" src="https://github.com/user-attachments/assets/7b76663f-ac4c-4c92-9eea-be8b73005092"></video>
   <img width="338" height="360" alt="Weather Bot performance" src="https://github.com/user-attachments/assets/fb6ffcd4-28be-4de0-bcbf-eb55b5e21178" />
 </p>
+
+https://github.com/user-attachments/assets/7b76663f-ac4c-4c92-9eea-be8b73005092
 
 A convex-payoff strategy that buys large volumes of extremely low-priced "No" positions (~1¢ odds) across weather-event markets.
 
@@ -101,9 +102,7 @@ Accept many small, capped losses in exchange for rare, outsized payouts. A singl
 
 ## Sports Bot — FIFA World Cup & Tournaments
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/b024d9cd-7cbf-4b1b-9618-ff45e4f9bdbd"></video>
-</p>
+https://github.com/user-attachments/assets/b024d9cd-7cbf-4b1b-9618-ff45e4f9bdbd
 
 A volatility-trading strategy for major tournaments such as the **FIFA World Cup** and large esports events.
 
